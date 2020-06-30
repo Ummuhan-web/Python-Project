@@ -66,7 +66,7 @@ Followings are some of features of Flask Framework;
 
 ## Part 3 - Write a Simple Hello World Web Application on GitHub Repo
 
-- Create folder named `hands-on-flask-01-hello-world-app-on-ec2-linux2` within `clarusway-python-workshop` repo
+- Create folder named `x` within `clarusway-python-workshop` repo
 
 - Create python file named `hello-world-app.py`
 
@@ -80,7 +80,7 @@ Followings are some of features of Flask Framework;
 
 - Enable the web application to be run in main, so that it can be reached from anywhere from port 80.
 
-- Save the complete code as `hello-world-app.py` file under `hands-on-flask-01-hello-world-app-on-ec2-linux2` folder.
+- Save the complete code as `hello-world-app.py` file under `` folder.
 
 - Add and commit `hello-world-app.py` on local repo
 
