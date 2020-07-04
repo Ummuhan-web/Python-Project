@@ -144,7 +144,7 @@ def greet(username):
 @app.route('/list10')
 def list10():
     return render_template('list10.html')
-
+Read
 # Create a function named evens which show the even numbers from 1 to 10 within `evens.html`
 # and assign to the route of ('/evens')
 @app.route('/evens')
